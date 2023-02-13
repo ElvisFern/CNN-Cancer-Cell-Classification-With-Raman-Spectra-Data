@@ -1,6 +1,6 @@
 # CNN-Cancer-Cell-Classification-With-Raman-Spectra-Data
 
-All the code and files were writtenand ran on google colab.
+All the code and files were written and ran on google colab.
 
 Data used cannot be shared however you can see sample on the notebook itself.
 
